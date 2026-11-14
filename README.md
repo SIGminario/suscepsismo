@@ -1,2 +1,2 @@
-# SIGminario
-Seminarios de SIG geografia y ambiente
+# suscepsismo
+Seminarios de susceptibilidad sísmica
